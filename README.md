@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Matvey Artemev 👋
 
 4rd year student at **FIT NSU** (Novosibirsk State University).
 
