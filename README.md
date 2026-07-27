@@ -1,36 +1,10 @@
-# Hi, I'm Matvey Artemev 👋
+## Hi, I'm Matvey Artemev 👋
 
-4rd year student at **FIT NSU** (Novosibirsk State University).
+Backend Developer & 4rd-year CS Student at Novosibirsk State University (FIT NSU) 🎓  
+Building robust APIs with C# (.NET) and Java (Spring), while exploring Angular for the frontend.
 
-## 💻 About Me
+* ⚙️ **I code daily in:** `.cs`, `.sql`, `.ts`, `.html`, `.css `
+* 🌍 **I'm mostly active within:** .NET & Java academic communities, Linux environments  
+* 💻 **Currently building:** RoomRental (C#/.NET 8 booking system) and other full-stack academic projects  
 
-- Developing backend with **C# (.NET)** and **Java (Spring)**
-- Learning **Angular** for frontend development
-- Working with **PostgreSQL** (triggers, stored procedures, views)
-- Experience in team development on academic projects
-- Comfortable with **Linux**
-
-## 🛠️ Tech Stack
-
-**Languages:** C, C#, Java, SQL, TypeScript, Python, C++
-
-**Backend:** .NET 8, ASP.NET Core, Spring Boot, Entity Framework Core
-
-**Frontend:** Angular
-
-**Databases:** PostgreSQL, SQL
-
-**Tools:** Git, Docker, Postman, pgAdmin, JMeter
-
-**IDEs:** Rider, IntelliJ IDEA, CLion, VS Code, PyCharm
-
-## 📚 Current Projects
-
-- **RoomRental** - room booking system built with C#/.NET 8 and REST API
-
-##  Connect with Me
-
-- Telegram: @teteik_art
-
----
- *Open to interesting projects and opportunities!*
+📫 **Connect:** [Telegram](https://t.me/teteik_art)
