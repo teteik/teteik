@@ -1,6 +1,6 @@
 ## Hi, I'm Matvey Artemev 👋
 
-Backend Developer & 4rd-year CS Student at Novosibirsk State University (FIT NSU) 🎓  
+Backend Developer & 4th-year CS Student at Novosibirsk State University (FIT NSU) 🎓  
 Building robust APIs with C# (.NET) and Java (Spring), while exploring Angular for the frontend.
 
 * ⚙️ **I code daily in:** `.cs`, `.sql`, `.ts`, `.html`, `.css `
